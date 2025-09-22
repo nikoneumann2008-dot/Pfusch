@@ -6,6 +6,8 @@
 int main()
 {
     int iq;
+
+    printf("HEllo Wordl");
     //Test Hudriwurdi
     std::cout << "Hello World!\n";
 }
