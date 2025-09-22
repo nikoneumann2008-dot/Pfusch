@@ -5,6 +5,7 @@
 
 int main()
 {
+    int iq;
     //Test Hudriwurdi
     std::cout << "Hello World!\n";
 }
