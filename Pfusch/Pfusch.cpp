@@ -5,7 +5,7 @@
 
 int main()
 {
-    //Test Hudriwurdi
+    //Test Hudriwu
     std::cout << "Hello World!\n";
 }
 
